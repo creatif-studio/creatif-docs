@@ -1,2 +1,2 @@
-# creatif-landing
-Creatif Landing: Template for everyone
+# Creatif Landing
+Template for everyone
