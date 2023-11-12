@@ -1,2 +1,2 @@
-# Creatif Landing
-Template for everyone
+# Upland
+Template landing for everyone
